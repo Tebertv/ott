@@ -46,6 +46,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 #EXTINF:0 type="stream" channelId="-1" group-title="TELEGRAM:@https://t.me/Teber_star_pay_TBRT_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",YANSIMA MÜZİK
 https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 
+#EXTINF:0 type="stream" channelId="-1" group-title="_TRT_KANALLARI" logo=".png",Tabi tv
+https://playlist.fasttvcdn.com/pl/0ijezatwsvi5a5khny0rka/tabii-Turkcell-2/playlist/0.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo="https://wmxznm9feqh3.merlincdn.net/assets/20cf5198-7c71-4f22-b208-44b198dc6a9b.png",1ON ADRALİN TV
 https://new.cache-stream.workers.dev/stream/UCsbpTjR1Vh0L3gvBg9d0Dbg/live.m3u8
 
@@ -294,13 +297,41 @@ https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="47" tvg-name="tbmmtv" tvg-logo="https://m.yilmaztv.cc/logo/tbmm-tv.jpg?t=1702413437" tvg-id2="" group-title="HABER ESKİ USUL",TBMM TV HABER
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
- 
+
+
+
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="50" tvg-name="aspor" tvg-logo="https://m.yilmaztv.cc/logo/a-spor.jpg?t=1702413437" tvg-id2="" group-title="SPOR ESKİ USUL",A SPOR SPOR
 https://ecanlitv3.etvserver.com/aspor.m3u8?tkn=RHQh15NCt98h8EqE87VjsQ&tms=1707492619 
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="51" tvg-name="trtspor" tvg-logo="https://m.yilmaztv.cc/logo/trt-spor.jpg?t=1702413437" tvg-id2="" group-title="SPOR ESKİ USUL",TRT SPOR SPOR
 
+#EXTINF:0 type="stream" channelId="-1" group-title="_SPOR_KANALLARI" logo=".png",TRT spor1
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="_SPOR_KANALLARI" logo=".png",TRT spor2⭐️
+https://trt.daioncdn.net/trtspor-yildiz/master_720p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="_SPOR_KANALLARI" logo=".png",Tabi spor max
+https://SFTVrkiJ6Gb1UvNIrPbo8cSGY.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="_SPOR_KANALLARI" logo=".png",Tabi spor1
+https://OMTfm36b1E2HpRagYzd5VwuE0.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="_SPOR_KANALLARI" logo=".png",Tabi spot2
+https://7rXNdPk01F2bvoV7TwJltXJRd.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="_SPOR_KANALLARI" logo=".png",Tabi spor3
+https://AjA9QKfqMvB0zghiXXrci30Rj.medya.trt.com.tr/master_720p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="_SPOR_KANALLARI" logo=".png",Tabi spor4
+https://ditvZPcGdZNWyfx6nCH4hhP69.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="_SPOR_KANALLARI" logo=".png",Tabi spor5
+https://BHf7hmM8Y9RRHoFCa70k2nkF5.medya.trt.com.tr/master_480p.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group-title="_SPOR_KANALLARI" logo=".png",TABİ SPOR6
+https://sSToObkb93QGEjJfkP4ny7nXD.medya.trt.com.tr/master_480p.m3u8
  
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 #EXTINF:-1 tvg-id="52" tvg-name="sportstv" tvg-logo="https://m.yilmaztv.cc/logo/sports-tv.jpg?t=1702413437" tvg-id2="" group-title="SPOR ESKİ USUL",SPORTS TV SPOR
