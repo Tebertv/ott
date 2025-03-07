@@ -1,0 +1,46 @@
+#EXTM3U
+
+***ÖZEL SPOR***
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV1
+http://65.21.85.175:8000/play/a034/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV2
+http://65.21.85.175:8000/play/a035/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV3
+http://65.21.85.175:8000/play/a036/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV4
+http://65.21.85.175:8000/play/a037/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TBRT SPOR TV5
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",GÖZCÜ SPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",HT-SPOR TV
+https://ciner-live.ercdn.net/htspor/htspor.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SÜPER SPORT TV
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TABİ SPOR CANLI
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TABİ SPOR1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TABİ SPOR2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TABİ SPOR3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT Spor1
+https://tv-trtspor1.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TRT Spor2 Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_1080p.m3u8
