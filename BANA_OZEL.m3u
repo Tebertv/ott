@@ -1,8 +1,278 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TELE 1
-http://116.202.238.88/TELE1_TR/tracks-v1a1/index.m3u8
+#EXTINF:-1,Tele 1 Hd
+http://yasamtv787.xyz:80/engingunel1/eg06082019/19114
+#EXTINF:-1,Halk Tv Hd
+http://yasamtv787.xyz:80/engingunel1/eg06082019/102439
+#EXTINF:-1,Szc TV HD 1080
+http://yasamtv787.xyz:80/engingunel1/eg06082019/318515
+#EXTINF:-1,KRT HD 1080
+http://yasamtv787.xyz:80/engingunel1/eg06082019/318513
+
+#EXTINF:-1,Dream Box Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258885
+#EXTINF:-1,Smart Box Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258889
+#EXTINF:-1,Film Box Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258890
+#EXTINF:-1,Global Box Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258888
+#EXTINF:-1,Mega Box Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258887
+#EXTINF:-1,Fix Box Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258886
+#EXTINF:-1,King Box Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258883
+#EXTINF:-1,Real Box Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258884
+#EXTINF:-1,Arena Box Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258882
+#EXTINF:-1,Neocine Turk FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258891
+#EXTINF:-1,Vizyon Cinema Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258881
+#EXTINF:-1,Yerli Film FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258880
+
+#EXTINF:-1,Arena Box Dram FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258762
+#EXTINF:-1,Arena Box Comedy FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258772
+#EXTINF:-1,Arena Box Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258782
+#EXTINF:-1,Arena Box Vizyon FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258808
+#EXTINF:-1,Arena Box Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258836
+#EXTINF:-1,Arena Box Gerilim FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258837
+#EXTINF:-1,Arena Box Bilim Kurgu FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258838
+#EXTINF:-1,Arena Box Macera FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258839
+#EXTINF:-1,Arena Box Korku FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258840
+#EXTINF:-1,King Box Dram FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258763
+#EXTINF:-1,King Box Comedy FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258773
+#EXTINF:-1,King Box Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258783
+#EXTINF:-1,King Box Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258841
+#EXTINF:-1,King Box Bilim Kurgu FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258842
+#EXTINF:-1,King Box Macera FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258843
+#EXTINF:-1,Mega Box Dram FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258767
+#EXTINF:-1,Mega Box Comedy FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258777
+#EXTINF:-1,Mega Box Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258787
+#EXTINF:-1,Mega Box Marvel FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258792
+#EXTINF:-1,Mega Box Gold FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258802
+#EXTINF:-1,Mega Box Vizyon FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258810
+#EXTINF:-1,Mega Box Western FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258816
+#EXTINF:-1,Mega Box Netflix FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258821
+#EXTINF:-1,Mega Box Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258859
+#EXTINF:-1,Mega Box Bilim Kurgu FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258860
+#EXTINF:-1,Mega Box Macera FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258861
+#EXTINF:-1,Mega Box Korku FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258862
+#EXTINF:-1,Dream Box Dram FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258765
+#EXTINF:-1,Dream Box Comedy FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258775
+#EXTINF:-1,Dream box Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258785
+#EXTINF:-1,Dream Box Romantic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258803
+#EXTINF:-1,Dream Box Netflix FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258819
+#EXTINF:-1,Dream Box Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258849
+#EXTINF:-1,Dream Box Bilim Kurgu FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258850
+#EXTINF:-1,Dream Box Korku FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258851
+#EXTINF:-1,Dream Box Macera FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258852
+#EXTINF:-1,Dream Box Gerilim FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258853
+#EXTINF:-1,Dream Box Savas FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258854
+#EXTINF:-1,Real Box Dram FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258764
+#EXTINF:-1,Real Box Comedy FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258774
+#EXTINF:-1,Real Box Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258784
+#EXTINF:-1,Real Box Vizyon FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258809
+#EXTINF:-1,Real Box Western FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258814
+#EXTINF:-1,Real Box Hint FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258815
+#EXTINF:-1,Fix Cinema Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258855
+#EXTINF:-1,Fix Box Dram FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258766
+#EXTINF:-1,Fix Box Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258786
+#EXTINF:-1,Fix Cinema Netflix FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258820
+#EXTINF:-1,Fix Cinema Korku FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258857
+#EXTINF:-1,Fix Box Comedy FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258776
+#EXTINF:-1,Fix Cinema Bilimkurgu FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258856
+#EXTINF:-1,Fix Cinema Macera FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258858
+#EXTINF:-1,Neo Box Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258791
+#EXTINF:-1,Neocine Special FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258793
+#EXTINF:-1,Neocine Gold FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258794
+#EXTINF:-1,Neocine Western FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258818
+#EXTINF:-1,Neocine Netflix FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258823
+#EXTINF:-1,Nova Cinema 1 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258825
+#EXTINF:-1,Nova Cinema 2 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258826
+#EXTINF:-1,Nova Cinema 3 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258827
+#EXTINF:-1,Nova Cinema 4 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258828
+#EXTINF:-1,Nova Cinema 5 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258829
+#EXTINF:-1,Nova Cinema 6 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258830
+#EXTINF:-1,Real Box Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258844
+#EXTINF:-1,Real Box Bilim Kurgu FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258845
+#EXTINF:-1,Real Box Macera FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258846
+#EXTINF:-1,Real Box Gerilim FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258847
+#EXTINF:-1,Real Box Korku FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258848
+#EXTINF:-1,Smart Box Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258865
+#EXTINF:-1,Smart Box Bilim Kurgu FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258866
+#EXTINF:-1,Smart Box Macera FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258867
+#EXTINF:-1,Smart Box Gerilim FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258868
+#EXTINF:-1,Smart Box Korku FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258869
+#EXTINF:-1,Smart Box Savas FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258870
+#EXTINF:-1,Horror Box 1 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258875
+#EXTINF:-1,Horror Box 2 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258876
+#EXTINF:-1,Horror Box 3 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258877
+#EXTINF:-1,Horror Box 4 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258878
+#EXTINF:-1,Horror Box 5 FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258879
+#EXTINF:-1,Horror FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258872
+#EXTINF:-1,Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258873
+#EXTINF:-1,Film Box Dram FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258770
+#EXTINF:-1,Film Box Comedy FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258780
+#EXTINF:-1,Film Box Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258790
+#EXTINF:-1,Global Box Vizyon FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258811
+#EXTINF:-1,Global Box Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258788
+#EXTINF:-1,Global Box Disny + FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258796
+#EXTINF:-1,Global Box Dram FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258768
+#EXTINF:-1,Global Box Comedy FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258778
+#EXTINF:-1,Global Box Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258863
+#EXTINF:-1,Global Box Korku FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258864
+#EXTINF:-1,Cinema Altyazi FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258806
+#EXTINF:-1,Cinema Dublaj FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258807
+#EXTINF:-1,Box Dram FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258761
+#EXTINF:-1,Comedy FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258771
+#EXTINF:-1,Fantastic FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258781
+#EXTINF:-1,Family FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258797
+#EXTINF:-1,Orjinal FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258798
+#EXTINF:-1,4k Ultra FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258799
+#EXTINF:-1,Vizyon FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258805
+#EXTINF:-1,Uzakdogu FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258812
+#EXTINF:-1,Western FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258813
+#EXTINF:-1,Netflix FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258824
+#EXTINF:-1,Bilim Kurgu FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258831
+#EXTINF:-1,Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258832
+#EXTINF:-1,Gerilim FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258833
+#EXTINF:-1,Korku FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258834
+#EXTINF:-1,Macera FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258835
+#EXTINF:-1,Action FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258871
+#EXTINF:-1,Korku FHD
+http://yasamtv787.xyz:80/engingunel1/eg06082019/258874
+
+#EXTINF:-1,Cem Yilmaz Serisi Hd
+http://yasamtv787.xyz:80/engingunel1/eg06082019/262146
+#EXTINF:-1,Cokguzel Hareketler Bunlar Hd
+http://yasamtv787.xyz:80/engingunel1/eg06082019/262147
+#EXTINF:-1,Guldur Guldur Hd
+http://yasamtv787.xyz:80/engingunel1/eg06082019/262148
+#EXTINF:-1,Konusanlar Exxen Hd
+http://yasamtv787.xyz:80/engingunel1/eg06082019/262149
+#EXTINF:-1,Olacak O Kadar Hd
+http://yasamtv787.xyz:80/engingunel1/eg06082019/262150
+#EXTINF:-1,Tolg Show Hd
+http://yasamtv787.xyz:80/engingunel1/eg06082019/262151
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",NOW HD
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SÖNMEZ TV
+https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0c036e8f-a671-446a-9224-ba0aad2d692d.png" group-title="TEBER_MEDYA-Müzik",Ayz TV
 http://stream.tvcdn.net/diger-muzik/ayz-tv.m3u8
 
@@ -29,8 +299,7 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 http://stream.tvcdn.net/yerel/cankiri-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="tbrt"TEBER_MEDYA",KANAL19 
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SÖNMEZ TV
-https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",AKILLI TV 
 https://yayin.santraltr.com/hls/akillitv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
