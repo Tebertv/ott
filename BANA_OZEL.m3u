@@ -1,6 +1,6 @@
 ﻿#EXTM3U
-#EXTINF:-1,KANAL 10
-https://hls.goodgame.ru/hls/214750.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 1 
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",EKOL TV HD
 http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
