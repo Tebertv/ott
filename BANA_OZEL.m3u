@@ -36,7 +36,7 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teleonmediagroups.flv
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VRT TV
-http://stream.tvcdn.net/diger-eglence/vrt-tv.m3u8
+https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 
 
 
@@ -60,6 +60,9 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Şaban Tv
 https://a8.radyotelekom.com.tr:3417/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",MCRT TV
+https://n2.cdn.jetstre.am/session/5de9c4f2f8b0b9ba6b1f2050a2da2387/sz/mceutv/wowza4/live/mc2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",İSMAYIL TV
 https://live.yayingold.com.tr/ismailtv/index.m3u8
@@ -467,9 +470,9 @@ https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",SİTELER TV
-https://tvturkiyem.ozelip.com:3534/stream/play.m3u8
+https://ip44.radyotelekomtv.com:3534/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",Ayz TV
+#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",AYAZ TV
 http://stream.tvcdn.net/diger-muzik/ayz-tv.m3u8
 
 #EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",DÜĞÜN TV
@@ -706,7 +709,7 @@ http://stream.tvcdn.net/dini/dost-tv.m3u8
 http://stream.tvcdn.net/dini/meltem-tv.m3u8
 #EXTINF:-1 tvg-id="TV5.tr" tvg-logo="http://assets.tvcdn.net/3df2642a-042c-45b6-b292-01600c5590cd.png" group-title="Dini",TV 5
 http://stream.tvcdn.net/dini/tv-5.m3u8
-#EXTINF:-1 tvg-id="DiyarTV.tr" tvg-logo="http://assets.tvcdn.net/ea4fe219-8fe0-4476-b636-3242ae8d2bf5.png" group-title="Dini",Diyar TV
+#EXTINF:-1 tvg-id="DiyarTV.tr" tvg-logo="http://assets.tvcdn.net/ea4fe219-8fe0-4476-b636-3242ae8d2bf5.png" group-title="Dini",IKRA TV
 http://stream.tvcdn.net/dini/diyar-tv.m3u8
 #EXTINF:-1 tvg-id="GoncaTV.tr" tvg-logo="http://assets.tvcdn.net/1e57f122-68ae-4bd2-8aa1-ad5cdd7e5000.png" group-title="Dini",Gonca TV
 http://stream.tvcdn.net/dini/gonca-tv.m3u8
