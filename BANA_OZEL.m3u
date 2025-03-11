@@ -1,18 +1,15 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 1 HD
-https://cdn01.mylive.in.th/tc1/live/161761/161761-540p.m3u8
+https://cdn01.mylive.in.th/tc1/live/161761/161761-source.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 1 flv
-https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 2 HD
+https://cdn01.mylive.in.th/vod/161763/001/161763-source.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 2 flv
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 3 HD 
+https://cdn01.mylive.in.th/tc1/live/161764/161764-source.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 3 flv 
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 4 flv
-https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 4 HD
+https://cdn01.mylive.in.th/tc1/live/161765/161765-source.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 5 flv
 https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
