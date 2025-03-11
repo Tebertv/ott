@@ -1,4 +1,7 @@
 ﻿#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 1 HD
+https://cdn01.mylive.in.th/tc1/live/161761/161761-540p.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",STAR 1 flv
 https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
 
