@@ -1,26 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 1 HD
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 2 HD
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 3 HD 
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 4 HD
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 5 HD
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 6 HD 
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 7 HD
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 8 HD  
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 9 HD 
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/X7fF08c1/In-Shot-20250421-094052562.png" group-title="Türkiyə",TEBER STAR 10 HD
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/nz9jSYhk/In-Shot-20250421-094505294.png" group-title="Türkiyə",KANAL10 HD
-https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL ANADOLU
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER DİZİ FLASH
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER SHOX
+https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER_HBB
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT
+https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT_SAFARİ
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT TEZENE
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745854618.png" group-title="TEBER_MEDYA",KANAL10 HD
+https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745810650.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
+https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 #EXTINF:0 tvg-logo="https://i.postimg.cc/VLqpCYn6/TRT-1-logo-2021-svg.png",TRT 1 ᵏᵃᵑᵏᵃ
 #EXTGRP:Türkiyə
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
