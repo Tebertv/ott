@@ -37,6 +37,9 @@ https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnso
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745810650.png" group-title="TEBER_MEDYA",YANSIMA MÜZİK HD
 https://videotest-sand.vercel.app/api/proxy?url=https://stream-cdn-iad2.vaughnsoft.net/play/live_yansimamuziktv.flv
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1746375321.png" group-title="TEBER_MEDYA",VRT TV
+https://vrttv.ozelip.com:3644/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
@@ -80,9 +83,6 @@ http://ekoltv-live.ercdn.net/ekoltv/ekoltv_1080p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",KANAL19 
 https://live.euromediacenter.com/kanal19/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",VRT TV
-https://vrttv.ozelip.com:3644/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",TYT Türk 
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
@@ -314,9 +314,6 @@ https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/chunklist.m3u8
 #EXTINF:1 tvg-id="" group-title="TEBER_MEDYA-Eğlence",SDM Belgesel
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 
-#EXTINF:1 tvg-id="" group-title="TEBER_MEDYA-Eğlence",SDM Çocuk
-https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",Türkmeneli_TV
 http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
 
@@ -400,27 +397,6 @@ https://ruhatv.ozelip.com:3483/hybrid/play.m3u8
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", ASKER TV
 https://asker.canliyayin.tv.tr/ssh101/turk/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",GÖZDE tv
-http://50.7.218.154:1935/live/gozdetv.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SDM HİTS TV 
-https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0c93ed36-4504-4cad-83b5-8a32a7d76256.png" group-title="TEBER_MEDYA",SDM TV
-http://stream.tvcdn.net/diger/sdm-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Türkiye Klinikleri
-http://stream.tvcdn.net/diger/turkiye-klinikleri.m3u8
-#EXTINF:-1 tvg-id="TurkmeneliTV.iq" tvg-logo="http://assets.tvcdn.net/aaa2df8e-7690-490c-a31e-71619d93e803.png" group-title="TEBER_MEDYA",Türkmeneli TV
-http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a54a02d6-094c-4923-91d9-9c21c7503aa1.png" group-title="TEBER_MEDYA",Üni TV
-http://stream.tvcdn.net/diger/uni-tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a54a02d6-094c-4923-91d9-9c21c7503aa1.png" group-title="TEBER_MEDYA",Woman TV
-http://stream.tvcdn.net/diger/woman-tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c998c2a7-19e2-4363-af98-e6e7b40774d7.png" group-title="TEBER_MEDYA-Müzik",Ceyhan TV
-http://stream.tvcdn.net/diger-muzik/ceyhan-tv.m3u8
-
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL",MERKEZ TV 
 http://nrttn172.kesintisizyayin.com:29010/merkeztv/merkeztv/sec-f5-v1-a1.m3u8
 
@@ -429,28 +405,6 @@ https://ruhatv.ozelip.com:3483/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id=".tr" tvg-name=" HD" tvg-logo=".png" group-title="TURK ULUSAL", ASKER TV
 https://asker.canliyayin.tv.tr/ssh101/turk/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",GÖZDE tv
-http://50.7.218.154:1935/live/gozdetv.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SDM HİTS TV 
-https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/0c93ed36-4504-4cad-83b5-8a32a7d76256.png" group-title="TEBER_MEDYA",SDM TV
-http://stream.tvcdn.net/diger/sdm-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/98981c83-2aa1-47ba-9427-a6648c074e79.png" group-title="TEBER_MEDYA",Türkiye Klinikleri
-http://stream.tvcdn.net/diger/turkiye-klinikleri.m3u8
-#EXTINF:-1 tvg-id="TurkmeneliTV.iq" tvg-logo="http://assets.tvcdn.net/aaa2df8e-7690-490c-a31e-71619d93e803.png" group-title="TEBER_MEDYA",Türkmeneli TV
-http://stream.tvcdn.net/diger/turkmeneli-tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a54a02d6-094c-4923-91d9-9c21c7503aa1.png" group-title="TEBER_MEDYA",Üni TV
-http://stream.tvcdn.net/diger/uni-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/c998c2a7-19e2-4363-af98-e6e7b40774d7.png" group-title="TEBER_MEDYA-Müzik",Ceyhan TV
-http://stream.tvcdn.net/diger-muzik/ceyhan-tv.m3u8
-#EXTINF:-1 tvg-id="WomanTV.tr" tvg-logo="http://assets.tvcdn.net/f85e5a28-5d65-405e-a079-be0a7893b8bd.png" group-title="TEBER_MEDYA",Woman TV
-http://stream.tvcdn.net/diger/woman-tv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/a54a02d6-094c-4923-91d9-9c21c7503aa1.png" group-title="TEBER_MEDYA",RETRO TV
-https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
 
 **************Müzik tv*********************
 
@@ -463,27 +417,16 @@ https://sonmeztv.ozelip.com.tr:3826/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",SİTELER TV
 https://ip44.radyotelekomtv.com:3534/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",AYAZ TV
-http://stream.tvcdn.net/diger-muzik/ayz-tv.m3u8
 
 #EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",DÜĞÜN TV
 https://cdn-duguntvmedya.yayin.com.tr/duguntvmedya/duguntvmedya/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",Finest TV
-http://stream.tvcdn.net/diger-muzik/finest-tv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",GÖZDE tv
+http://50.7.218.154:1935/live/gozdetv.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SDM HİTS TV 
+https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",Fora Müzik
-http://stream.tvcdn.net/diger-muzik/fora-muzik.m3u8
-
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",MEGA MTV
-http://stream.tvcdn.net/diger-muzik/mega-tv-iskenderun.m3u8
-
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",EZGİ TV
-https://live.euromediacenter.com/ezgitv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",Demo MTV
-http://stream.tvcdn.net/diger-muzik/demo-tv.m3u8
-
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="http://assets.tvcdn.net/63a00e4e-eb16-4c55-9917-d1d2053f8b8b.png" group-title="TEBER_MEDYA-Müzik",Yağmurlu MTV
-http://stream.tvcdn.net/diger-muzik/yagmurlu-tv.m3u8
-
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",GÖZDE tv
+http://50.7.218.154:1935/live/gozdetv.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="1_TEBER_KANALLARI" logo=".png",SDM HİTS TV 
+https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
