@@ -1,5 +1,36 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"  
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER STAR
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_star1.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT 19
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star2.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",KRAL TÜRK TV
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star3.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER FLASH
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_star4.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER SHOX
+https://stream-cdn-iad.vaughnsoft.net/play/live_tele5_tr.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER_HBB
+https://stream-cdn-iad.vaughnsoft.net/play/live_teber_cine6.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",TEBER EHLİBEYT
+https://stream-cdn-iad.vaughnsoft.net/play/live_ehlibeyt_tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT_SAFARİ
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_safari_tv.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT TEZENE
+https://stream-cdn-iad2.vaughnsoft.net/play/live_teber_tezene.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3048087_icohome.png?ts=1745263499.png" group-title="TEBER_MEDYA",HÇRT MAXİ
+https://stream-cdn-iad.vaughnsoft.net/play/live_tbr_medya_on.flv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/3557396_ico.png?ts=1745809771.png.png" group-title="TEBER_MEDYA",KANAL10 HD
+https://stream-cdn-iad2.vaughnsoft.net/play/live_knl10tv.flv  
 
 
 #######################  RELAXS  KANALLAR  ##################
